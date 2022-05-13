@@ -1,2 +1,2 @@
 # CalculatorAndroid
- Calculator made in android to show the basic functionalities
+ Calculator made in android to show the basic functionalities of Android
